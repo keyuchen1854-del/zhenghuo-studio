@@ -1,0 +1,67 @@
+[
+  {
+    "id": "01",
+    "name": "电商短视频创意导演｜总导演",
+    "path": "references/modules/01-director.md"
+  },
+  {
+    "id": "02",
+    "name": "generate-fresh-ideas｜脑洞搅拌机",
+    "path": "references/modules/02-ideas.md"
+  },
+  {
+    "id": "03",
+    "name": "短视频-邪修反差-爆款编导-海外版｜反差整活导演",
+    "path": "references/modules/03-contrast.md"
+  },
+  {
+    "id": "04",
+    "name": "get-more-perspectives｜挑刺评审团",
+    "path": "references/modules/04-review.md"
+  },
+  {
+    "id": "05",
+    "name": "关键帧改写复刻视频｜原片拆解台",
+    "path": "references/modules/05-reverse.md"
+  },
+  {
+    "id": "06",
+    "name": "啪啪啪裂变｜参考裂变与关键帧工作台",
+    "path": "references/modules/06-adaptation.md"
+  },
+  {
+    "id": "07",
+    "name": "故事板-提示词｜分镜施工图",
+    "path": "references/modules/07-storyboard.md"
+  },
+  {
+    "id": "08",
+    "name": "视界提示词｜现场质感师",
+    "path": "references/modules/08-visual.md"
+  },
+  {
+    "id": "09",
+    "name": "视频内容逐句翻译｜口播翻译官",
+    "path": "references/modules/09-translation.md"
+  },
+  {
+    "id": "10",
+    "name": "文案｜收尾吆喝官",
+    "path": "references/modules/10-copywriting.md"
+  },
+  {
+    "id": "11",
+    "name": "match-my-writing-style｜口吻分身",
+    "path": "references/modules/11-voice.md"
+  },
+  {
+    "id": "12",
+    "name": "focus-my-energy｜省脑场务",
+    "path": "references/modules/12-energy.md"
+  },
+  {
+    "id": "13",
+    "name": "prep-for-meetings｜开工小抄",
+    "path": "references/modules/13-meeting.md"
+  }
+]

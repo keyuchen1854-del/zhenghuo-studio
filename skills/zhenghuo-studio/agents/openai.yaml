@@ -1,0 +1,4 @@
+interface:
+  display_name: "整活片场"
+  short_description: "十三个模块协作完成创意、裂变与分镜，衔接本地生图和 H3 视频制作"
+  default_prompt: "用 $zhenghuo-studio 根据我的商品和参考素材，设计一条独立视频工作流，生图用本地模型，视频走 H3 API。"
